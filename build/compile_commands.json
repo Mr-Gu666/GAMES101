@@ -1,0 +1,37 @@
+[
+{
+  "directory": "D:/interesting/GAMES101/build/0",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/0.dir/includes_CXX.rsp -g -o CMakeFiles\\0.dir\\main.cpp.obj -c D:\\interesting\\GAMES101\\0\\main.cpp",
+  "file": "D:/interesting/GAMES101/0/main.cpp"
+},
+{
+  "directory": "D:/interesting/GAMES101/build/1",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/1.dir/includes_CXX.rsp -g -o CMakeFiles\\1.dir\\Triangle.cpp.obj -c D:\\interesting\\GAMES101\\1\\Triangle.cpp",
+  "file": "D:/interesting/GAMES101/1/Triangle.cpp"
+},
+{
+  "directory": "D:/interesting/GAMES101/build/1",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/1.dir/includes_CXX.rsp -g -o CMakeFiles\\1.dir\\main.cpp.obj -c D:\\interesting\\GAMES101\\1\\main.cpp",
+  "file": "D:/interesting/GAMES101/1/main.cpp"
+},
+{
+  "directory": "D:/interesting/GAMES101/build/1",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/1.dir/includes_CXX.rsp -g -o CMakeFiles\\1.dir\\rasterizer.cpp.obj -c D:\\interesting\\GAMES101\\1\\rasterizer.cpp",
+  "file": "D:/interesting/GAMES101/1/rasterizer.cpp"
+},
+{
+  "directory": "D:/interesting/GAMES101/build/2",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/2.dir/includes_CXX.rsp -g -o CMakeFiles\\2.dir\\Triangle.cpp.obj -c D:\\interesting\\GAMES101\\2\\Triangle.cpp",
+  "file": "D:/interesting/GAMES101/2/Triangle.cpp"
+},
+{
+  "directory": "D:/interesting/GAMES101/build/2",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/2.dir/includes_CXX.rsp -g -o CMakeFiles\\2.dir\\main.cpp.obj -c D:\\interesting\\GAMES101\\2\\main.cpp",
+  "file": "D:/interesting/GAMES101/2/main.cpp"
+},
+{
+  "directory": "D:/interesting/GAMES101/build/2",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/2.dir/includes_CXX.rsp -g -o CMakeFiles\\2.dir\\rasterizer.cpp.obj -c D:\\interesting\\GAMES101\\2\\rasterizer.cpp",
+  "file": "D:/interesting/GAMES101/2/rasterizer.cpp"
+}
+]
