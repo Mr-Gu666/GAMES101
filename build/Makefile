@@ -116,43 +116,17 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named 0
+# Target rules for targets named 3
 
 # Build rule for target.
-0 : cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 0
-.PHONY : 0
+3 : cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 3
+.PHONY : 3
 
 # fast build rule for target.
-0/fast:
-	$(MAKE) $(MAKESILENT) -f 0\CMakeFiles\0.dir\build.make 0/CMakeFiles/0.dir/build
-.PHONY : 0/fast
-
-#=============================================================================
-# Target rules for targets named 1
-
-# Build rule for target.
-1 : cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 1
-.PHONY : 1
-
-# fast build rule for target.
-1/fast:
-	$(MAKE) $(MAKESILENT) -f 1\CMakeFiles\1.dir\build.make 1/CMakeFiles/1.dir/build
-.PHONY : 1/fast
-
-#=============================================================================
-# Target rules for targets named 2
-
-# Build rule for target.
-2 : cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 2
-.PHONY : 2
-
-# fast build rule for target.
-2/fast:
-	$(MAKE) $(MAKESILENT) -f 2\CMakeFiles\2.dir\build.make 2/CMakeFiles/2.dir/build
-.PHONY : 2/fast
+3/fast:
+	$(MAKE) $(MAKESILENT) -f 3\CMakeFiles\3.dir\build.make 3/CMakeFiles/3.dir/build
+.PHONY : 3/fast
 
 # Help Target
 help:
@@ -162,9 +136,7 @@ help:
 	@echo ... depend
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... 0
-	@echo ... 1
-	@echo ... 2
+	@echo ... 3
 .PHONY : help
 
 

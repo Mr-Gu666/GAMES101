@@ -62,145 +62,57 @@ CMAKE_BINARY_DIR = D:\interesting\GAMES101\build
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
-all: 0/all
-all: 1/all
-all: 2/all
+all: 3/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
-preinstall: 0/preinstall
-preinstall: 1/preinstall
-preinstall: 2/preinstall
+preinstall: 3/preinstall
 .PHONY : preinstall
 
 # The main recursive "clean" target.
-clean: 0/clean
-clean: 1/clean
-clean: 2/clean
+clean: 3/clean
 .PHONY : clean
 
 #=============================================================================
-# Directory level rules for directory 0
+# Directory level rules for directory 3
 
 # Recursive "all" directory target.
-0/all: 0/CMakeFiles/0.dir/all
-.PHONY : 0/all
+3/all: 3/CMakeFiles/3.dir/all
+.PHONY : 3/all
 
 # Recursive "preinstall" directory target.
-0/preinstall:
-.PHONY : 0/preinstall
+3/preinstall:
+.PHONY : 3/preinstall
 
 # Recursive "clean" directory target.
-0/clean: 0/CMakeFiles/0.dir/clean
-.PHONY : 0/clean
+3/clean: 3/CMakeFiles/3.dir/clean
+.PHONY : 3/clean
 
 #=============================================================================
-# Directory level rules for directory 1
-
-# Recursive "all" directory target.
-1/all: 1/CMakeFiles/1.dir/all
-.PHONY : 1/all
-
-# Recursive "preinstall" directory target.
-1/preinstall:
-.PHONY : 1/preinstall
-
-# Recursive "clean" directory target.
-1/clean: 1/CMakeFiles/1.dir/clean
-.PHONY : 1/clean
-
-#=============================================================================
-# Directory level rules for directory 2
-
-# Recursive "all" directory target.
-2/all: 2/CMakeFiles/2.dir/all
-.PHONY : 2/all
-
-# Recursive "preinstall" directory target.
-2/preinstall:
-.PHONY : 2/preinstall
-
-# Recursive "clean" directory target.
-2/clean: 2/CMakeFiles/2.dir/clean
-.PHONY : 2/clean
-
-#=============================================================================
-# Target rules for target 0/CMakeFiles/0.dir
+# Target rules for target 3/CMakeFiles/3.dir
 
 # All Build rule for target.
-0/CMakeFiles/0.dir/all:
-	$(MAKE) $(MAKESILENT) -f 0\CMakeFiles\0.dir\build.make 0/CMakeFiles/0.dir/depend
-	$(MAKE) $(MAKESILENT) -f 0\CMakeFiles\0.dir\build.make 0/CMakeFiles/0.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\interesting\GAMES101\build\CMakeFiles --progress-num=1,2 "Built target 0"
-.PHONY : 0/CMakeFiles/0.dir/all
+3/CMakeFiles/3.dir/all:
+	$(MAKE) $(MAKESILENT) -f 3\CMakeFiles\3.dir\build.make 3/CMakeFiles/3.dir/depend
+	$(MAKE) $(MAKESILENT) -f 3\CMakeFiles\3.dir\build.make 3/CMakeFiles/3.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\interesting\GAMES101\build\CMakeFiles --progress-num=1,2,3,4,5 "Built target 3"
+.PHONY : 3/CMakeFiles/3.dir/all
 
 # Build rule for subdir invocation for target.
-0/CMakeFiles/0.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\interesting\GAMES101\build\CMakeFiles 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 0/CMakeFiles/0.dir/all
+3/CMakeFiles/3.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\interesting\GAMES101\build\CMakeFiles 5
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 3/CMakeFiles/3.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\interesting\GAMES101\build\CMakeFiles 0
-.PHONY : 0/CMakeFiles/0.dir/rule
+.PHONY : 3/CMakeFiles/3.dir/rule
 
 # Convenience name for target.
-0 : 0/CMakeFiles/0.dir/rule
-.PHONY : 0
+3 : 3/CMakeFiles/3.dir/rule
+.PHONY : 3
 
 # clean rule for target.
-0/CMakeFiles/0.dir/clean:
-	$(MAKE) $(MAKESILENT) -f 0\CMakeFiles\0.dir\build.make 0/CMakeFiles/0.dir/clean
-.PHONY : 0/CMakeFiles/0.dir/clean
-
-#=============================================================================
-# Target rules for target 1/CMakeFiles/1.dir
-
-# All Build rule for target.
-1/CMakeFiles/1.dir/all:
-	$(MAKE) $(MAKESILENT) -f 1\CMakeFiles\1.dir\build.make 1/CMakeFiles/1.dir/depend
-	$(MAKE) $(MAKESILENT) -f 1\CMakeFiles\1.dir\build.make 1/CMakeFiles/1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\interesting\GAMES101\build\CMakeFiles --progress-num=3,4,5,6 "Built target 1"
-.PHONY : 1/CMakeFiles/1.dir/all
-
-# Build rule for subdir invocation for target.
-1/CMakeFiles/1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\interesting\GAMES101\build\CMakeFiles 4
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 1/CMakeFiles/1.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\interesting\GAMES101\build\CMakeFiles 0
-.PHONY : 1/CMakeFiles/1.dir/rule
-
-# Convenience name for target.
-1 : 1/CMakeFiles/1.dir/rule
-.PHONY : 1
-
-# clean rule for target.
-1/CMakeFiles/1.dir/clean:
-	$(MAKE) $(MAKESILENT) -f 1\CMakeFiles\1.dir\build.make 1/CMakeFiles/1.dir/clean
-.PHONY : 1/CMakeFiles/1.dir/clean
-
-#=============================================================================
-# Target rules for target 2/CMakeFiles/2.dir
-
-# All Build rule for target.
-2/CMakeFiles/2.dir/all:
-	$(MAKE) $(MAKESILENT) -f 2\CMakeFiles\2.dir\build.make 2/CMakeFiles/2.dir/depend
-	$(MAKE) $(MAKESILENT) -f 2\CMakeFiles\2.dir\build.make 2/CMakeFiles/2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\interesting\GAMES101\build\CMakeFiles --progress-num=7,8,9,10 "Built target 2"
-.PHONY : 2/CMakeFiles/2.dir/all
-
-# Build rule for subdir invocation for target.
-2/CMakeFiles/2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\interesting\GAMES101\build\CMakeFiles 4
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 2/CMakeFiles/2.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\interesting\GAMES101\build\CMakeFiles 0
-.PHONY : 2/CMakeFiles/2.dir/rule
-
-# Convenience name for target.
-2 : 2/CMakeFiles/2.dir/rule
-.PHONY : 2
-
-# clean rule for target.
-2/CMakeFiles/2.dir/clean:
-	$(MAKE) $(MAKESILENT) -f 2\CMakeFiles\2.dir\build.make 2/CMakeFiles/2.dir/clean
-.PHONY : 2/CMakeFiles/2.dir/clean
+3/CMakeFiles/3.dir/clean:
+	$(MAKE) $(MAKESILENT) -f 3\CMakeFiles\3.dir\build.make 3/CMakeFiles/3.dir/clean
+.PHONY : 3/CMakeFiles/3.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

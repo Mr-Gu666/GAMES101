@@ -96,6 +96,10 @@
  C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/basic_string.h \
  C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ext/alloc_traits.h \
  C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/alloc_traits.h \
+ C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/string_view \
+ C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/limits \
+ C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/functional_hash.h \
+ C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/string_view.tcc \
  C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ext/string_conversions.h \
  C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cstdlib \
  C:/PROGRA~1/MINGW-~1/mingw64/x86_64-w64-mingw32/include/stdlib.h \
@@ -105,7 +109,6 @@
  C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/std_abs.h \
  C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cstdio \
  C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cerrno \
- C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/functional_hash.h \
  C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/basic_string.tcc \
  C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/locale_classes.tcc \
  C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/system_error \
@@ -129,7 +132,6 @@
  C:/opencv/build/x64/mingw/opencv2/opencv_modules.hpp \
  C:/opencv/sources/modules/core/include/opencv2/core.hpp \
  C:/opencv/sources/modules/core/include/opencv2/core/cvdef.h \
- C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/limits \
  C:/opencv/sources/modules/core/include/opencv2/core/hal/interface.h \
  C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cstddef \
  C:/opencv/sources/modules/core/include/opencv2/core/cv_cpu_dispatch.h \
@@ -156,6 +158,20 @@
  C:/PROGRA~1/MINGW-~1/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
  C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cmath \
  C:/PROGRA~1/MINGW-~1/mingw64/x86_64-w64-mingw32/include/math.h \
+ C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/specfun.h \
+ C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/tr1/gamma.tcc \
+ C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/tr1/special_function_util.h \
+ C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/tr1/bessel_function.tcc \
+ C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/tr1/special_function_util.h \
+ C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/tr1/beta_function.tcc \
+ C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/tr1/ell_integral.tcc \
+ C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/tr1/exp_integral.tcc \
+ C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/tr1/hypergeometric.tcc \
+ C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/tr1/legendre_function.tcc \
+ C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/tr1/modified_bessel_func.tcc \
+ C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/tr1/poly_hermite.tcc \
+ C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/tr1/poly_laguerre.tcc \
+ C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/tr1/riemann_zeta.tcc \
  C:/opencv/sources/modules/core/include/opencv2/core/cvstd_wrapper.hpp \
  C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/memory \
  C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_uninitialized.h \
@@ -202,6 +218,13 @@
  C:/opencv/sources/modules/core/include/opencv2/core/utility.hpp \
  C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/functional \
  C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/std_function.h \
+ C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/unordered_map \
+ C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/hashtable.h \
+ C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/hashtable_policy.h \
+ C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/node_handle.h \
+ C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/optional \
+ C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/enable_special_members.h \
+ C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/unordered_map.h \
  C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/mutex \
  C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/chrono \
  C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ratio \
@@ -277,10 +300,6 @@
  C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/codecvt.h \
  C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/unique_ptr.h \
  C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/quoted_string.h \
- C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/unordered_map \
- C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/hashtable.h \
- C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/hashtable_policy.h \
- C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/unordered_map.h \
  C:/PROGRA~1/MINGW-~1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/math.h \
  C:/opencv/sources/modules/flann/include/opencv2/flann/autotuned_index.h \
  C:/opencv/sources/modules/flann/include/opencv2/flann/ground_truth.h \
