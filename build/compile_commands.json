@@ -1,22 +1,7 @@
 [
 {
-  "directory": "D:/interesting/GAMES101/build/3",
-  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/3.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\3.dir\\Texture.cpp.obj -c D:\\interesting\\GAMES101\\3\\Texture.cpp",
-  "file": "D:/interesting/GAMES101/3/Texture.cpp"
-},
-{
-  "directory": "D:/interesting/GAMES101/build/3",
-  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/3.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\3.dir\\Triangle.cpp.obj -c D:\\interesting\\GAMES101\\3\\Triangle.cpp",
-  "file": "D:/interesting/GAMES101/3/Triangle.cpp"
-},
-{
-  "directory": "D:/interesting/GAMES101/build/3",
-  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/3.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\3.dir\\main.cpp.obj -c D:\\interesting\\GAMES101\\3\\main.cpp",
-  "file": "D:/interesting/GAMES101/3/main.cpp"
-},
-{
-  "directory": "D:/interesting/GAMES101/build/3",
-  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/3.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\3.dir\\rasterizer.cpp.obj -c D:\\interesting\\GAMES101\\3\\rasterizer.cpp",
-  "file": "D:/interesting/GAMES101/3/rasterizer.cpp"
+  "directory": "D:/interesting/GAMES101/build/4",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/4.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\4.dir\\main.cpp.obj -c D:\\interesting\\GAMES101\\4\\main.cpp",
+  "file": "D:/interesting/GAMES101/4/main.cpp"
 }
 ]

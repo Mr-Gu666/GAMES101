@@ -5,4 +5,5 @@ include_directories("C:/Program Files (x86)/Eigen3/include/eigen3") #引用Eigen
 #add_subdirectory(0) # 1为作业1的文件夹的名字，它命令CMAKE执行文件夹1下的CMakeLists.txt
 #add_subdirectory(1)
 #add_subdirectory(2)
-add_subdirectory(3)
+#add_subdirectory(3)
+add_subdirectory(4)
