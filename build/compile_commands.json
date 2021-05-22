@@ -1,7 +1,17 @@
 [
 {
-  "directory": "D:/interesting/GAMES101/build/4",
-  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/4.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\4.dir\\main.cpp.obj -c D:\\interesting\\GAMES101\\4\\main.cpp",
-  "file": "D:/interesting/GAMES101/4/main.cpp"
+  "directory": "D:/interesting/GAMES101/build/5",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/5.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\5.dir\\Renderer.cpp.obj -c D:\\interesting\\GAMES101\\5\\Renderer.cpp",
+  "file": "D:/interesting/GAMES101/5/Renderer.cpp"
+},
+{
+  "directory": "D:/interesting/GAMES101/build/5",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/5.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\5.dir\\Scene.cpp.obj -c D:\\interesting\\GAMES101\\5\\Scene.cpp",
+  "file": "D:/interesting/GAMES101/5/Scene.cpp"
+},
+{
+  "directory": "D:/interesting/GAMES101/build/5",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/5.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\5.dir\\main.cpp.obj -c D:\\interesting\\GAMES101\\5\\main.cpp",
+  "file": "D:/interesting/GAMES101/5/main.cpp"
 }
 ]

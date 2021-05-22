@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "bin/4/4.exe"
+			"path" : "bin/5/5.exe"
 		},
 		{
-			"path" : "bin/4/4.pdb"
+			"path" : "bin/5/5.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -19,7 +19,7 @@
 		],
 		"files" : 
 		[
-			"4/CMakeLists.txt",
+			"5/CMakeLists.txt",
 			"CMakeLists.txt"
 		],
 		"nodes" : 
@@ -76,7 +76,7 @@
 				},
 				{
 					"backtrace" : 5,
-					"path" : "D:/interesting/GAMES101/4/EIGEN3_INCLUDE_DIR"
+					"path" : "D:/interesting/GAMES101/5/EIGEN3_INCLUDE_DIR"
 				},
 				{
 					"backtrace" : 2,
@@ -180,11 +180,13 @@
 			},
 			"sourceIndexes" : 
 			[
-				0
+				0,
+				1,
+				2
 			]
 		}
 	],
-	"id" : "4::@b410677b84ed73fac43f",
+	"id" : "5::@86bc56fc56af4c3cde02",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -279,12 +281,12 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "4",
-	"nameOnDisk" : "4.exe",
+	"name" : "5",
+	"nameOnDisk" : "5.exe",
 	"paths" : 
 	{
-		"build" : "4",
-		"source" : "4"
+		"build" : "5",
+		"source" : "5"
 	},
 	"sourceGroups" : 
 	[
@@ -292,7 +294,9 @@
 			"name" : "Source Files",
 			"sourceIndexes" : 
 			[
-				0
+				0,
+				1,
+				2
 			]
 		}
 	],
@@ -301,7 +305,19 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "4/main.cpp",
+			"path" : "5/Renderer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "5/Scene.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "5/main.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
